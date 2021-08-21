@@ -1,2 +1,2 @@
 # stellar-watch-tv
-看电视
+TV直播
