@@ -63,3 +63,5 @@ http://ivi.bupt.edu.cn/hls/dftv.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8 
 #EXTINF:-1 ,新疆卫视
 http://ivi.bupt.edu.cn/hls/xjtv.m3u8
+#EXTINF:-1 ,[俄罗斯联邦]Волгоград 1 (1080p)
+http://193.107.128.8:8552/play/a007
